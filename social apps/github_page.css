@@ -1,0 +1,27 @@
+body{
+    min-height:100vh;
+    background-image:linear-gradient(55deg,pink,skyblue,yellow);
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+}
+img{
+    border-image: round;
+ box-shadow: 0cap;
+    border-radius: 70%;
+    border-color: blue;
+    border-left: 0cqb;
+    float: right;
+}
+p{
+   font-style: italic;
+   font-weight: 300;
+   font-size:x-large;
+   
+}
